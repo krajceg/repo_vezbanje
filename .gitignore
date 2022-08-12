@@ -1,5 +1,2 @@
-*.pdf
-
-*.logs
-
-/logs
+/test_output
+*logs_
